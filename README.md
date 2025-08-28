@@ -1,8 +1,7 @@
 # Atividades-do-Beecrowd-
 - 2603 - Nível 1
     
-    ![image.png](attachment:0d372977-8d9f-49a4-8da3-4b4f1af0cc21:image.png)
-    
+![image.png](attachment:0d372977-8d9f-49a4-8da3-4b4f1af0cc21:image.png)    
     ```python
     SELECT
         name,
