@@ -1,7 +1,8 @@
 # Atividades-do-Beecrowd-
+## Atividades Nível 1
 - 2603 - Nível 1
     
-    ![image.png](attachment:0d372977-8d9f-49a4-8da3-4b4f1af0cc21:image.png)
+    <img width="1920" height="892" alt="Image" src="https://github.com/user-attachments/assets/8fc16bcb-2330-46e7-ab08-d389b99c8d27" />
     
     ```python
     SELECT
@@ -16,7 +17,7 @@
     
 - 2607 - Nível 1
     
-    ![image.png](attachment:86edfb66-5e0b-4dfe-b914-d8393fd18128:image.png)
+    <img width="1898" height="835" alt="Image" src="https://github.com/user-attachments/assets/f0575834-a668-498b-9e3c-d4a8c3960000" />
     
     ```python
     SELECT DISTINCT
@@ -30,7 +31,7 @@
     
 - 2608 - Nível 1
     
-    ![image.png](attachment:a26ca60f-8230-4586-8c6e-4c8bf3ce8ace:image.png)
+    <img width="1919" height="839" alt="Image" src="https://github.com/user-attachments/assets/ff80bd98-9ec4-46bd-9c76-dac400e3cc2f" />
     
     ```python
     SELECT
@@ -42,7 +43,7 @@
     
 - 2615 - Nível 1
     
-    ![image.png](attachment:880e1a88-4ed8-4209-9a16-8ba26a26176e:image.png)
+    <img width="1920" height="895" alt="Image" src="https://github.com/user-attachments/assets/9a5275d0-13e7-4ddb-a693-c48cb5667f31" />
     
     ```python
     SELECT DISTINCT city
@@ -52,7 +53,7 @@
     
 - 2622 - Nível 1
     
-    ![image.png](attachment:566f9346-252b-49a3-a942-9f00edb56c3e:image.png)
+    <img width="1920" height="888" alt="Image" src="https://github.com/user-attachments/assets/e7613e59-30a8-499f-ab3a-7af8f1a69350" />
     
     ```python
     SELECT 
@@ -62,10 +63,10 @@
     Where
     id in(SELECT id_customers FROM legal_person);
     ```
-    
+## Atividades Nível 2
 - 2604 - Nível 2
     
-    ![image.png](attachment:13a4bbbb-d91e-46f2-9065-4de9e0df8d5a:image.png)
+    <img width="1891" height="831" alt="Image" src="https://github.com/user-attachments/assets/658ddf96-f557-456c-baa3-ba597af58d3d" />
     
     ```python
     SELECT
@@ -80,7 +81,7 @@
     
 - 2613 - Nível 2
     
-    ![image.png](attachment:7274a778-bc35-4f0d-80cd-cae6922f4465:image.png)
+    <img width="1920" height="886" alt="Image" src="https://github.com/user-attachments/assets/38889961-648f-48ac-b07b-aa5abb8490a3" />
     
     ```python
     SELECT
@@ -93,10 +94,10 @@
     WHERE
         p.value < 2.00;
     ```
-    
+## Atividades Nível 3
 - 2610 - Nível 3
     
-    ![image.png](attachment:d6313fe1-641c-408e-972a-2ee697878700:image.png)
+    <img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/d69df490-c5d9-464d-af1d-d74bc3f93753" />
     
     ```python
     SELECT
@@ -108,7 +109,7 @@
     
 - 2618 - Nível 3
     
-    ![image.png](attachment:de385b08-a65c-48af-bab1-86b7771be10f:image.png)
+    <img width="1920" height="845" alt="Image" src="https://github.com/user-attachments/assets/91d70174-5592-4025-8a6f-43832a0263db" />
     
     ```python
     SELECT
@@ -125,10 +126,10 @@
         pr.name = 'Sansul SA'
         AND c.name = 'Imported';
     ```
-    
+## Atividades Nível 5
 - 2614 - Nível 5
     
-    ![image.png](attachment:35c7aa66-69ae-4ac7-bab4-2ee90cd0baae:image.png)
+    <img width="1920" height="902" alt="Image" src="https://github.com/user-attachments/assets/72a0254a-1eb4-4a48-b2fc-8231a0621111" />
     
     ```python
     SELECT
